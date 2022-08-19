@@ -1,6 +1,7 @@
 package com.ventas.ventas.model;
 import javax.persistence.*;
 
+/** Pojo */
 @Entity
 @Table(name = "cliente")
 public class Cliente {
